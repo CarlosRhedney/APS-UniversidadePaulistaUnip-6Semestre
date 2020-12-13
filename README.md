@@ -1,6 +1,7 @@
 # APS-UniversidadePaulistaUnip-6Semestre
 Desenvolvimento de um Sistema de Identificação e Autenticação Biométrica.
 ![Captura de tela 2020-12-13 160113](https://user-images.githubusercontent.com/49602892/102021250-51e2c100-3d5d-11eb-90e8-9220afe0cbe9.png)
+
 Neste semestre foi liberado pelo coordenador o trabalho individual ou em grupo, ai optei em seguir carreira solo.
 Para o desenvolvimento do Banco de Dados foi utilizado o pacote XAMPP e o MariaDB como Sistema Gerenciador de Banco de Dados.
 
