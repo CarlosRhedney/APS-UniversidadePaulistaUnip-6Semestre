@@ -1,5 +1,8 @@
 # APS-UniversidadePaulistaUnip-6Semestre
 Desenvolvimento de um Sistema de Identificação e Autenticação Biométrica.
+![Captura de tela 2020-12-13 160113](https://user-images.githubusercontent.com/49602892/102021250-51e2c100-3d5d-11eb-90e8-9220afe0cbe9.png)
+Neste semestre foi liberado pelo coordenador o trabalho individual ou em grupo, ai optei em seguir carreira solo.
+Para o desenvolvimento do Banco de Dados foi utilizado o pacote XAMPP e o MariaDB como Sistema Gerenciador de Banco de Dados.
 
 # Tela Inicial
 ![Tela Inicial](https://user-images.githubusercontent.com/49602892/100560993-4fc92e80-3296-11eb-9b77-a7160fa1e4e5.png)
@@ -22,6 +25,7 @@ Desenvolvimento de um Sistema de Identificação e Autenticação Biométrica.
 ![2020-11-15 (3)_LI](https://user-images.githubusercontent.com/49602892/100562252-dd5a4d80-3299-11eb-9839-b44f5a0352be.jpg)
 
 # Nível 2
+Para o deselvolvimento da tela de biometria, foi utilizado como exemplo o pacote do amigo Samuelson do canal [Descompila](https://www.youtube.com/watch?v=Ez0yo2qGNOI&list=WL&index=24&ab_channel=Descompila), fiz algumas alterações que atendesse a minha necessidade, o pacote original sem modificações pode ser encontrado aqui [Descompila](https://github.com/descompila/BiometriaJava)
 ![tela biometria nivel 2](https://user-images.githubusercontent.com/49602892/100562301-07137480-329a-11eb-81ee-ed76e7c87fb3.png)
 ![tela biometria nivel 2 teste dll](https://user-images.githubusercontent.com/49602892/100562344-2e6a4180-329a-11eb-8638-a6320eaf0f26.png)
 ![tela biometria nivel 2 captura biometria](https://user-images.githubusercontent.com/49602892/100562361-46da5c00-329a-11eb-9c43-91b9b187f4f6.png)
